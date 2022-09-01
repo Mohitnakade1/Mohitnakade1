@@ -1,104 +1,89 @@
-### Hi there 👋
 
-<!-- MASTER PIC -->
-
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
-
-<!-- INTRODUCTION -->
+<h1 align="center">
+<img align="center" height="300" width="500" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Mohit</a></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+Welcome+to+my+github;Passionate+Data+Analystics+Student;From+Pune+India;Always%20learning%20new%20things&center=true&width=600&height=40">
+<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <a href="https://www.linkedin.com/in/mohit-nakade-a55088235/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>  
+  <a href="https://www.kaggle.com/aastha124" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>  
+ <a href="https://www.hackerrank.com/mohitnakade777" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  
+  
+  - 😄  Pronouns: He/His 
+  - 💻 I’m currently Studying at Masai School<br>
+  - 🌱 I’m currently learning : Machine Learning
+  - 💬: Ask me about Data Analysis and Visualization. 📊📈🤖🧠
+  - 📫 Reach me at <a href="mohitnakade777@gmail.com">mohitnakade777@gmail.com</a><br>
     
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Samar </h1>
-<h3 align="center">I'm an aspiring Data Analyst from India.</h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://www.java.com" target="_blank"> 
 
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 
-<!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
+   <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
-<br>
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
 
-<!-- ABOUT ME -->
+   <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+   </a>
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    
 
-- 🔭 I’m currently working on **Analytical Skills**
-
-- 🌱 I’m currently learning **Data Science and Analytics.**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/samar4saeedkhan?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a>
-
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/samarsaeedkhan)**
-
-<br>
-
-<!--Code For Language and Tool-->
-<br>
-<br>
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" data-animated-image="" </a> <strong>Languages &amp; Tools:</strong></h2>
-<br>
-<!--Code For Inserting Icon Of Languages and Tools-->
-
-<p align="center">  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
-    <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-
-</p>
-<br>
-<!-- STREAK CODE -->
-
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar4saeedkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="samar4saeedkhan" /></p>
-
-
-<!-- GITHUB STAT CODE -->
-
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
-
-<!-- 1st DROP DOWN -->
-
-<details>
-  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
- <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=samar4saeedkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar4saeedkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+  <details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+  <br/>
+  </p>
 </details>
 
-<!-- 2nd DROP DOWN -->
 
 <details>
- <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
-<br>
-  <p align="center" dir="auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=samar4saeedkhan&theme=onedark">
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 </details>
 
-<!-- 3rd DROP DOWN -->
+<br/>
+## Popular Projects
+<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+</a>  
 
-<details>
-  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
-    <br>
-    <a href="https://github.com/samar4saeedkhan/github-readme-activity-graph"><img alt="Samar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samar4saeedkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    </details>
 
-<!--CONNECT WITH ME CODE  -->
-
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
-
-<!-- CONNECT WITH ME ICONS CODE -->
-<p align="left">
-<a href = "https://www.linkedin.com/in/samarsaeedkhan/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/samar4saeedkhan" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:samarsaeedkhan4@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/samarsaeedkhan4" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
-</p>
-
-<h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
-
-![snake gif](https://github.com/samar4saeedkhan/samar4saeedkhan/blob/output/github-contribution-grid-snake.gif)
-
+<a href="https://github.com/aastha12/Loan_Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
+</a>
