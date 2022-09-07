@@ -26,6 +26,7 @@ Mohit</a></h1>
   - 🌱 I’m currently learning : Machine Learning
   - 💬: Ask me about Data Analysis and Visualization. 📊📈🤖🧠
   - 📫 Reach me at <a href="mohitnakade777@gmail.com">mohitnakade777@gmail.com</a><br>
+  - Linkedin https://www.linkedin.com/in/mohit-nakade-a55088235/
     
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
